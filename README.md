@@ -26,3 +26,4 @@ To provide a clear, factual overview of crime patterns that could assist policym
 
 <h2>📷  Screenshots:</h2>
 ![Screenshot 1](image/visdatBoston.jpg)
+
