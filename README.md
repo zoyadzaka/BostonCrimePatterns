@@ -25,3 +25,4 @@ To provide a clear, factual overview of crime patterns that could assist policym
 👉[Click here to open the BostonCrimePatterns notebook]()
 
 <h2>📷  Screenshots:</h2>
+![Screenshot 1](image/visdatBoston.jpg)
