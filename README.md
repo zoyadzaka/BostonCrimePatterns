@@ -22,7 +22,7 @@ Key Features:
 Goal:
 To provide a clear, factual overview of crime patterns that could assist policymakers, researchers, and communities in making informed decisions based on real-world data.
 
-👉[Click here to open the BostonCrimePatterns notebook](notebook/EDA_VisualisasiData_Group4_Chantika_Nabila_Zoyadzaka (1))
+👉[Click here to open the BostonCrimePatterns notebook](notebook/notebookBostonCrimePatterns.ipynb)
 
 <h2>📷  Screenshots:</h2>
 
