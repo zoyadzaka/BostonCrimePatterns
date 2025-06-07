@@ -22,6 +22,9 @@ Key Features:
 Goal:
 To provide a clear, factual overview of crime patterns that could assist policymakers, researchers, and communities in making informed decisions based on real-world data.
 
-👉[Click here to open the BostonCrimePatterns notebook]()
+👉[Click here to open the BostonCrimePatterns notebook](notebook/notebookBostonCrimePatterns.ipynb)
 
 <h2>📷  Screenshots:</h2>
+
+![Screenshot 1](image/visdatBoston.jpg)
+
